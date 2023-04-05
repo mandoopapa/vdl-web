@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vdl-web/static/css/main.76e27cc9.chunk.css",
+    "main.js": "/vdl-web/static/js/main.d3689e42.chunk.js",
+    "main.js.map": "/vdl-web/static/js/main.d3689e42.chunk.js.map",
+    "runtime-main.js": "/vdl-web/static/js/runtime-main.db84b7e3.js",
+    "runtime-main.js.map": "/vdl-web/static/js/runtime-main.db84b7e3.js.map",
+    "static/js/2.95a8fa88.chunk.js": "/vdl-web/static/js/2.95a8fa88.chunk.js",
+    "static/js/2.95a8fa88.chunk.js.map": "/vdl-web/static/js/2.95a8fa88.chunk.js.map",
+    "index.html": "/vdl-web/index.html",
+    "precache-manifest.1fab70be2a3690c257f1547bff2cf19d.js": "/vdl-web/precache-manifest.1fab70be2a3690c257f1547bff2cf19d.js",
+    "service-worker.js": "/vdl-web/service-worker.js",
+    "static/css/main.76e27cc9.chunk.css.map": "/vdl-web/static/css/main.76e27cc9.chunk.css.map",
+    "static/js/2.95a8fa88.chunk.js.LICENSE.txt": "/vdl-web/static/js/2.95a8fa88.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/vdl-web/static/media/logo.ff5c3f0d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db84b7e3.js",
+    "static/js/2.95a8fa88.chunk.js",
+    "static/css/main.76e27cc9.chunk.css",
+    "static/js/main.d3689e42.chunk.js"
+  ]
+}
